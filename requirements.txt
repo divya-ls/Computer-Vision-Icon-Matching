@@ -1,0 +1,7 @@
+opencv-python
+pdf2image
+numpy
+matplotlib
+pytesseract
+Pillow
+google-colab
